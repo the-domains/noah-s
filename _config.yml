@@ -1,0 +1,14 @@
+layout_spectrum: 0.6789644
+color:
+  saturation: 0.4480287
+  brandStrength: 0.5430108
+  lightness: 0.40681
+  brandColors:
+    - '#01041F'
+    - '#FFFCFF'
+    - '#C6015C'
+    - '#4202E0'
+    - '#FF39FF'
+  rhythmicContrast: 0.2078853
+typography_spectrum: 0.2091609
+name: "Noah's"
